@@ -7,5 +7,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Example app2 listening at http://localhost:${port}`)
+  console.log(`Example app listening at http://localhost:${port}, another random change`)
 })
