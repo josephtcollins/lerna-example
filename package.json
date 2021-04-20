@@ -3,5 +3,23 @@
   "private": true,
   "devDependencies": {
     "lerna": "^4.0.0"
-  }
+  },
+  "command": {
+    "publish": {
+      "ignoreChanges": [
+        "*.md"
+      ],
+      "message": "chore(release): publish %s",
+      "registry": "https://npm.pkg.github.com"
+    },
+    "version": {
+      "conventialCommits": true,
+      "createRelease": "github",
+      "allowBranch": [
+        "master",
+        "main"
+      ]
+    }
+  },
+  "version": "1.0.0"
 }
