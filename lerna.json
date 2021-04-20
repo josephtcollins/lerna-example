@@ -3,7 +3,7 @@
     "packages/*"
   ],
   "command": {
-    "version": {
+    "publish": {
       "conventialCommits": true,
       "allowBranch": [
         "master",
