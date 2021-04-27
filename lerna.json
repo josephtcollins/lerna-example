@@ -4,6 +4,7 @@
   ],
   "command": {
     "publish": {
+      "noPrivate": true,
       "conventialCommits": true,
       "allowBranch": [
         "master",
