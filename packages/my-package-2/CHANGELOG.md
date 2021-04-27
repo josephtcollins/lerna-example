@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.0.1](https://github.com/josephtcollins/lerna-example/compare/v0.2.0...v1.0.1) (2021-04-27)
+
+
+### Bug Fixes
+
+* new version ([2beb707](https://github.com/josephtcollins/lerna-example/commit/2beb7072759cebdbe40b85b7d14934454742beb3))
+
+
+
+
+
 # [0.2.0](https://github.com/josephtcollins/lerna-example/compare/v0.1.2...v0.2.0) (2021-04-27)
 
 
