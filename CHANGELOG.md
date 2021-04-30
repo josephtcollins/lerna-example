@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.0.4](https://github.com/josephtcollins/lerna-example/compare/v1.0.3...v0.0.4) (2021-04-30)
+
+
+### Bug Fixes
+
+* add thing to private repo ([868750c](https://github.com/josephtcollins/lerna-example/commit/868750c347e0b517d85285d1bd55af6af1328f6b))
+
+
+
+
+
 ## [1.0.3](https://github.com/josephtcollins/lerna-example/compare/v1.0.2...v1.0.3) (2021-04-27)
 
 **Note:** Version bump only for package root
