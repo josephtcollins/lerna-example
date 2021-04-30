@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/josephtcollins/lerna-example/compare/v2.0.0...v2.1.0) (2021-04-30)
+
+
+### Features
+
+* should increment min ([45e24c2](https://github.com/josephtcollins/lerna-example/commit/45e24c2e99773c99c69571a09ada596ec8ad6858))
+
+
+
+
+
 # [2.0.0](https://github.com/josephtcollins/lerna-example/compare/v1.3.2...v2.0.0) (2021-04-30)
 
 
